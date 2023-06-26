@@ -5,4 +5,9 @@ Para analizar la cantidad de ventas, se tuvo en cuenta lugar de venta, destino, 
 
 # How_to_visualize_my_project
 -Entrar a https://github.com/GiseRojas/Travel_Assistance_Data_ProyectoFinal/edit/main/README.md
--El archivo para ver es el de 
+
+-El archivo para ver es el de "Asistencia al viajero_Entrega final.pdf"
+
+Listo!!!
+
+
